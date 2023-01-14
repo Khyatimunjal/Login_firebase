@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477964866817",
+    "project_id": "login-signup-d1a6d",
+    "storage_bucket": "login-signup-d1a6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477964866817:android:0c2c7e79b74b44ab343700",
+        "android_client_info": {
+          "package_name": "com.KhyatiMunjal.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477964866817-50nujes5fm9o43hmep4jja7agaalq7tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Mx0CGJtA1TuFotOIjyfRZeceH4Yuhvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477964866817-50nujes5fm9o43hmep4jja7agaalq7tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
